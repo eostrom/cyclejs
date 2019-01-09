@@ -93,7 +93,7 @@ function animate(state$, Time) {
 
 function view(state$, Time) {
   const animatedState$ = animate(state$, Time)
-  const ulStyle = {padding: '0', listStyle: 'none', display: 'flex'}
+  const ulStyle = {padding: '0', listStyle: 'none', display: 'flex', color: 'red'}
   const liStyle = {fontSize: '50px'}
   return animatedState$.map(animStates =>
     ul({style: ulStyle}, animStates.map(animState =>
