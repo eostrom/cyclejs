@@ -1,6 +1,7 @@
 {
   "name": "example",
   "version": "0.0.0",
+  "main": "src/index.ts",
   "private": true,
   "author": "Andre Staltz",
   "license": "MIT",

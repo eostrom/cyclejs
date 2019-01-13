@@ -1,6 +1,7 @@
 {
   "name": "example",
   "version": "0.0.0",
+  "main": "src/main.js",
   "private": true,
   "author": "FeliciousX <feliciousx@gmail.com>",
   "license": "MIT",

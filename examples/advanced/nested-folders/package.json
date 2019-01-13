@@ -2,7 +2,7 @@
   "name": "isolated-buttons",
   "version": "0.0.0",
   "description": "isolate() buttons for nested buttons",
-  "main": "index.js",
+  "main": "src/main.js",
   "author": "Tylor Steinberger <tlsteinberger167@gmail.com> (github.com/Tylors)",
   "license": "MIT",
   "dependencies": {

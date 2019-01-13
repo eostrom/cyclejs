@@ -1,6 +1,7 @@
 {
   "name": "clicks-visualizer",
   "version": "0.0.0",
+  "main": "src/main.js",
   "private": true,
   "author": "Adam Florczak",
   "license": "MIT",
